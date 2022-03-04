@@ -1,2 +1,4 @@
 Mi nombre es Eduardo Fuentes Monroy
-Este es mi primer texto para GitHub y este es un cambio
+Este es mi primer texto para GitHub.
+
+y hoy hablaremos de su vida.

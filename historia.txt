@@ -1,4 +1,3 @@
-Mi nombre es Eduardo Fuentes Monroy
-Este es mi primer texto para GitHub.
-
-hoy hablaremos de su vida y obra maestra.
+Mi nombre es Eduardo Fuentes
+Este es mi primer texto para GitHub
+Mañana nos enfocaremos en su vida laboral.

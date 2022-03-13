@@ -16,5 +16,6 @@ salario y poder entrar por completo al mundo de la tecnologia.
   Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team
-* Incluye ejemplos en Linux, Windows y Mac.
+* Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
 Y como un amable recordatorio: Si llegas acá **ESPERO TE LO TOMES EN SERIO** y mejor ve la ver el curso *(https://platzi.com/cursos/git-github/)*
